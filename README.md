@@ -43,10 +43,3 @@ To make your application easily executable from anywhere, you can link the built
    ```
 
 Now you can launch the app by simply typing `analog_clock` in your terminal.
-
-## Assets
-- The clock image is located at `assets/image.png` and is used in the application UI.
-
----
-
-Feel free to customize and enhance this project!
